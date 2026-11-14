@@ -1,0 +1,5 @@
+veritiq_pro.db
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
